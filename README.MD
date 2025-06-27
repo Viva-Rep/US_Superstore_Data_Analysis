@@ -16,7 +16,7 @@
 
 ![US SuperStores Sales Performance Analysis Dashboard Drill Through](/US_SuperStores_SalesPerformance_Dashboard_2.png)
 
-[Access "US SuperStores Sales Performance Analysis Dashboard" Here](https://app.powerbi.com/groups/me/reports/3e09bd40-c04d-458a-a4ce-07a827e2ce81/ae0daf68be708acddded?experience=power-bi)
+[Access "US SuperStores Sales Performance Analysis Dashboard" Here](https://app.powerbi.com/groups/me/reports/8d199023-09b2-4bde-b577-5fa22f7feb48/ae0daf68be708acddded?experience=power-bi)
 
 #### Analysis outcomes as follows:
 
